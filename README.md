@@ -1,2 +1,0 @@
-# AdminPages
-admin pages
