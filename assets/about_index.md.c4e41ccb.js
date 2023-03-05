@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as o}from"./app.ef6d6395.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about/index.md","lastUpdated":null}'),n={name:"about/index.md"},s=o("p",null,"他很懒 什么都不想 ✍",-1),r=[s];function c(d,_,i,l,p,u){return a(),t("div",null,r)}const x=e(n,[["render",c]]);export{f as __pageData,x as default};

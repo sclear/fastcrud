@@ -1,0 +1,1 @@
+import{Q as o,r,o as a,c as n,d as c}from"../app.37470486.js";const m={__name:"test",setup(s){return o({api:"list",autoRun:!0}),(e,l)=>{const t=r("createForm");return a(),n("div",null,[c(t,{createOption:e.dialogForm},null,8,["createOption"])])}}};export{m as default};
