@@ -1,0 +1,1 @@
+import{r as a,o,c as n,d as l,u as r,j as c}from"../app.ba5c7b0e.js";const m={__name:"table",setup(p){const e=c({api:"list",column:[{prop:"name",label:"\u59D3\u540D"},{prop:"age",label:"\u5E74\u9F84"}]});return(s,u)=>{const t=a("Table",!0);return o(),n("div",null,[l(t,{createOption:r(e)},null,8,["createOption"])])}}};export{m as default};
