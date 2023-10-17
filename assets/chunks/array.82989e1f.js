@@ -1,0 +1,1 @@
+import{N as a,r as o,o as n,c as r,e as c,u as l}from"../app.e0257bf6.js";const i={__name:"array",setup(s){const e=a({api:"list",autoRun:!0,column:[{type:"Tag",prop:["tag","des"],label:"\u6807\u7B7E"}]});return(p,u)=>{const t=o("Table");return n(),r("div",null,[c(t,{createOption:l(e)},null,8,["createOption"])])}}};export{i as default};

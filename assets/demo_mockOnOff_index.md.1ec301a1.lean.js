@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,d as o}from"./app.e0257bf6.js";const C=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"demo/mockOnOff/index.md","lastUpdated":null}'),p={name:"demo/mockOnOff/index.md"},l=o("",5),e=[l];function c(t,r,D,i,d,y){return n(),a("div",null,e)}const u=s(p,[["render",c]]);export{C as __pageData,u as default};

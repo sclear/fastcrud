@@ -1,0 +1,1 @@
+import{N as o,r as n,o as a,c as r,e as c,u as p}from"../app.e0257bf6.js";const m={__name:"component",setup(l){const e=o({api:"user.list",autoRun:!0,column:[{type:"Index",prop:"type",label:"\u6392\u5E8F"}]});return(s,u)=>{const t=n("Table");return a(),r("div",null,[c(t,{createOption:p(e)},null,8,["createOption"])])}}};export{m as default};
